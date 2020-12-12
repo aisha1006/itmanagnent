@@ -1,10 +1,5 @@
-# Rockabilly-Radio
-
+# Ozen
 (Now on Kotlin)
-
-My old (2016) Online/Stream radio with HTML parsing
-
-Tutorial you can found [here](https://tproger.ru/articles/android-online-radio/)
 
 Technology:
 
